@@ -5,9 +5,11 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetCryptoFuncInfo", "GetCryptoFuncInfo\GetCryptoFuncInfo.vcxproj", "{90492360-3C13-4565-9CC2-B1751F8AFCC1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_app", "test_app\test_app.vcxproj", "{EBF6AF21-DE84-411B-96DE-B709F921BAF9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleTest", "test_app\test_app.vcxproj", "{EBF6AF21-DE84-411B-96DE-B709F921BAF9}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OriginalPintool", "OriginalPintool\OriginalPintool.vcxproj", "{16679BCA-6736-49D7-A00F-9A531D14E8C8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CryptoTest", "CryptoTest\CryptoTest.vcxproj", "{D14BF018-6B3E-40E2-952C-57EDD1E4641B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,14 @@ Global
 		{16679BCA-6736-49D7-A00F-9A531D14E8C8}.Release|Win32.Build.0 = Release|Win32
 		{16679BCA-6736-49D7-A00F-9A531D14E8C8}.Release|x64.ActiveCfg = Release|x64
 		{16679BCA-6736-49D7-A00F-9A531D14E8C8}.Release|x64.Build.0 = Release|x64
+		{D14BF018-6B3E-40E2-952C-57EDD1E4641B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D14BF018-6B3E-40E2-952C-57EDD1E4641B}.Debug|Win32.Build.0 = Debug|Win32
+		{D14BF018-6B3E-40E2-952C-57EDD1E4641B}.Debug|x64.ActiveCfg = Debug|x64
+		{D14BF018-6B3E-40E2-952C-57EDD1E4641B}.Debug|x64.Build.0 = Debug|x64
+		{D14BF018-6B3E-40E2-952C-57EDD1E4641B}.Release|Win32.ActiveCfg = Release|Win32
+		{D14BF018-6B3E-40E2-952C-57EDD1E4641B}.Release|Win32.Build.0 = Release|Win32
+		{D14BF018-6B3E-40E2-952C-57EDD1E4641B}.Release|x64.ActiveCfg = Release|x64
+		{D14BF018-6B3E-40E2-952C-57EDD1E4641B}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
