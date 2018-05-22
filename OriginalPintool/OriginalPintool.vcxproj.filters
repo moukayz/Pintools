@@ -9,15 +9,6 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
     </Filter>
-    <Filter Include="Documents">
-      <UniqueIdentifier>{b8dd2600-7302-4aa7-a99d-1607cd3cd4fb}</UniqueIdentifier>
-      <Extensions>txt;doc;html</Extensions>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\README">
-      <Filter>Documents</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="mytool.cpp">
